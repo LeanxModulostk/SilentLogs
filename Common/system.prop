@@ -1,0 +1,11 @@
+#Agrego estos que no se lograron silenciar automáticamente en mi rom 
+log.tag.FD=silent
+log.tag.app_process=silent
+log.tag.AndroidRuntime=silent
+log.tag.cutils-trace=silent
+log.tag.libc=silent
+log.tag.ziparchive=silent
+log.tag.JavaBinder=silent
+
+#Y para que no lloren no silencie los logs de Magisk
+# @modulostk en telegram
